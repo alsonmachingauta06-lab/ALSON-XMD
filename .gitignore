@@ -1,0 +1,30 @@
+node_modules/
+session/
+temp/
+.cache/
+.cache_src/
+_assets/
+.config/
+*.log
+.env
+.replit
+replit.nix
+data/lid-phone-cache.json
+data/push-names.json
+.local/
+.agents/
+attached_assets/
+replit.md
+
+# Runtime / generated data
+data/subbots/
+data/pairbots.json
+data/pairs.json
+data/autoreply.json
+downloads/
+*.before-*
+plugins/*.disabled
+
+# Local session/auth
+data/paired-sessions/
+paired-sessions/

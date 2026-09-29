@@ -1,0 +1,42 @@
+{
+  "theme": "ALSON-XMD",
+  "AUTHOR": "Alson Machingauta",
+  "LANGUAGE": "English",
+  "LANGCODE": "en",
+  "STRINGS": {
+    "global": {
+      "botName": "ALSON-XMD",
+      "body": "WhatsApp Bot",
+      "greet": "Boss",
+      "greet2": "Hey Boss",
+      "pic1": "./data/alsonxmd.png",
+      "pic2": "./data/alsonxmd.png",
+      "pic3": "./data/alsonxmd.png",
+      "pic4": "./data/alsonxmd.png",
+      "pic5": "./data/alsonxmd.png",
+      "pic6": "./data/alsonxmd.png",
+      "pic7": "./data/alsonxmd.png",
+      "dotbody": "ALSON-XMD is online.",
+      "promote": "Admin role granted.",
+      "demote": "Admin role removed.",
+      "antlink": "Link detected. *Goodbye.*",
+      "mention": "Please mention a user.",
+      "title": "ALSON-XMD",
+      "footer": "ALSON-XMD Bot",
+      "by": "Made by: Alson Machingauta",
+      "success": "Done ✓",
+      "wait": "*Processing your request* ✅",
+      "admin": "⛔ This command is for group admins only.",
+      "botAdmin": "❗ Please give me admin role first.",
+      "owner": "⛔ This command is reserved for the bot owner.",
+      "group": "❗ This feature is for groups only.",
+      "private": "⚠️ This feature is for private chats only.",
+      "bot": "⚠️ This feature is for the bot number only.",
+      "alive": "System online. All functions nominal.",
+      "aliveEmoji": "⚡"
+    },
+    "error": {
+      "text": "⚠️ An error occurred. Please try again."
+    }
+  }
+}
