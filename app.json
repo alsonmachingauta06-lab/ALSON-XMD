@@ -2,7 +2,7 @@
   "name": "alson-xmd",
   "description": "ALSON-XMD — A feature-rich multi-device WhatsApp bot with 1200+ commands, AI agent, auto-status, anti-delete, sudo system, and 19 smart features. Built with Node.js and Baileys.",
   "keywords": ["alson-xmd", "whatsapp", "baileys", "bot", "multi-device", "ai", "chatbot", "whatsapp-bot", "nodejs"],
-  "logo": "https://files.catbox.moe/5uli5p.jpeg",
+  "logo": "https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png",
   "repository": "https://github.com/alsonmachingauta06-lab/ALSON-XMD",
   "website": "https://github.com/alsonmachingauta06-lab/ALSON-XMD",
   "success_url": "/",
@@ -46,7 +46,7 @@
     "ALIVE_IMG": {
       "description": "Image URL shown with the alive/menu command.",
       "required": false,
-      "value": "https://files.catbox.moe/5uli5p.jpeg"
+      "value": "https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png"
     },
     "GEMINI_API_KEY": {
       "description": "Google Gemini API key for advanced AI responses. Get it from ai.google.dev.",

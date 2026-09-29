@@ -12,7 +12,7 @@ module.exports = {
     run: async (sock, message, args, { sender, contextInfo }) => {
         try {
             const botName = getStr('botName') || 'ALSON-XMD';
-            const pic     = getStr('pic1') || 'https://files.catbox.moe/5uli5p.jpeg';
+            const pic     = getStr('pic1') || 'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png';
 
             const uptime  = process.uptime();
             const h = Math.floor(uptime / 3600);

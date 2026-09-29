@@ -45,7 +45,7 @@ function initCallHandler(sock, ownerJid) {
                             externalAdReply: {
                                 title:        'Call Rejected',
                                 body:         (getStr('botName') || 'ALSON-XMD') + ' Anti-Call',
-                                thumbnailUrl: getStr('pic1') || 'https://files.catbox.moe/5uli5p.jpeg',
+                                thumbnailUrl: getStr('pic1') || 'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png',
                                 mediaType:    1
                             }
                         }

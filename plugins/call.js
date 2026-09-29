@@ -11,7 +11,7 @@ module.exports = {
     private:     true,
     run: async (sock, message, args, { sender, contextInfo }) => {
         const botName = getStr('botName') || 'ALSON-XMD';
-        const pic     = getStr('pic1') || 'https://files.catbox.moe/5uli5p.jpeg';
+        const pic     = getStr('pic1') || 'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png';
 
         const harareTime = new Date().toLocaleTimeString('en-ZW', {
             hour: 'numeric', minute: 'numeric', hour12: true, timeZone: 'Africa/Harare'

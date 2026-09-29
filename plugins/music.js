@@ -65,7 +65,7 @@ module.exports = {
             const track = await searchYoutube(query);
 
             await sock.sendMessage(sender, {
-                image:   { url: track.thumbnail || 'https://files.catbox.moe/5uli5p.jpeg' },
+                image:   { url: track.thumbnail || 'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png' },
                 caption: `🎵 *${track.title}*\n🎤 *Artist:* ${track.artist}\n⏱ *Duration:* ${track.duration}\n\n_Downloading..._`,
                 contextInfo
             }, { quoted: message });

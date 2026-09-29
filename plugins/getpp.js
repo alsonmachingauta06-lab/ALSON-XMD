@@ -19,7 +19,7 @@ module.exports = {
             }
 
             const pp = await sock.profilePictureUrl(user, 'image').catch(() =>
-                'https://files.catbox.moe/5uli5p.jpeg'
+                'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png'
             );
 
             const name = user.split('@')[0];

@@ -215,7 +215,7 @@ module.exports = {
                     externalAdReply: {
                         title:                 'Facebook Downloader',
                         body:                  'Powered by ' + (getStr('botName') || 'ALSON-XMD'),
-                        thumbnailUrl:          'https://files.catbox.moe/5uli5p.jpeg',
+                        thumbnailUrl:          'https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png',
                         sourceUrl:             url,
                         mediaType:             1,
                         renderLargerThumbnail: true,
