@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=SILVA%20MD%20BOT&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next-Gen%20WhatsApp%20Automation&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=ALSON-XMD&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Next-Gen%20WhatsApp%20Automation&descAlignY=60&descSize=20" width="100%"/>
 
 <br>
 
-<img src="https://github.com/silvatechnexusinc/silva-md-data/blob/main/data/silvamdboticon.png" width="300"/>
+<img src="https://raw.githubusercontent.com/alsonmachingauta06-lab/ALSON-XMD/main/data/alsonxmd.png" width="300"/>
 
 <br><br>
 
@@ -33,7 +33,7 @@
 |---|---|
 | [🔐 Get Session ID](#-step-1--get-session-id) | [✨ Features](#-features) |
 | [🚀 Deploy](#-step-2--deploy) | [🎨 Themes](#-themes) |
-| [⚙️ Environment Variables](#️-environment-variables) | [🤝 Connect](#-connect-with-silva) |
+| [⚙️ Environment Variables](#️-environment-variables) | [🤝 Connect](#-connect-with-alson-xmd) |
 
 ---
 
@@ -43,7 +43,7 @@
 
 <div align="center">
 
-<a href="https://silva-session-selector.vercel.app/">
+<a href="https://github.com/alsonmachingauta06-lab/ALSON-XMD">
 <img src="https://img.shields.io/badge/──────────────────────────────────────────-000?style=for-the-badge" /><br>
 <img src="https://img.shields.io/badge/%F0%9F%94%90%20GET%20YOUR%20SESSION%20ID-Click%20Here%20to%20Generate-25D366?style=for-the-badge&labelColor=075E54&logoColor=white" height="45" />
 </a>
@@ -74,8 +74,8 @@
 
 | Platform | Badge | Notes |
 |:--------:|:-----:|:------|
-| <img src="https://img.shields.io/badge/Silva%20Host-Official-FF00A6?style=flat-square&logo=server&logoColor=white" /> | [![Deploy on ALSON-XMD Host](https://img.shields.io/badge/Deploy%20Now-Silva%20Host-FF00A6?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/alsonmachingauta06-lab/ALSON-XMD) | ⭐ Official · Easiest · Optimized |
-| <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> | [![Deploy on Heroku](https://img.shields.io/badge/Deploy%20Now-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://silva-md-fork-checker.vercel.app/) | 24/7 uptime · Auto-restart |
+| <img src="https://img.shields.io/badge/ALSON-XMD%20Host-Official-FF00A6?style=flat-square&logo=server&logoColor=white" /> | [![Deploy on ALSON-XMD Host](https://img.shields.io/badge/Deploy%20Now-ALSON-XMD%20Host-FF00A6?style=for-the-badge&logo=icloud&logoColor=white)](https://github.com/alsonmachingauta06-lab/ALSON-XMD) | ⭐ Official · Easiest · Optimized |
+| <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> | [![Deploy on Heroku](https://img.shields.io/badge/Deploy%20Now-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://github.com/alsonmachingauta06-lab/ALSON-XMD) | 24/7 uptime · Auto-restart |
 | <img src="https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" /> | [![Deploy on Railway](https://img.shields.io/badge/Deploy%20Now-Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new) | $5 free credits/month |
 | <img src="https://img.shields.io/badge/Koyeb-121212?style=flat-square&logo=koyeb&logoColor=white" /> | [![Deploy on Koyeb](https://img.shields.io/badge/Deploy%20Now-Koyeb-121212?style=for-the-badge&logo=koyeb&logoColor=white)](https://app.koyeb.com) | Free tier · No cold-starts |
 | <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=replit&logoColor=white" /> | [![Deploy on Replit](https://img.shields.io/badge/Deploy%20Now-Replit-F26207?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com) | Browser IDE · Edit live |
@@ -85,7 +85,7 @@
 <br>
 
 <details>
-<summary><img src="https://img.shields.io/badge/⭐%20SILVA%20HOST-Official%20·%20Easiest%20Setup-FF00A6?style=for-the-badge&logo=icloud&logoColor=white" /></summary>
+<summary><img src="https://img.shields.io/badge/⭐%20ALSON-XMD%20HOST-Official%20·%20Easiest%20Setup-FF00A6?style=for-the-badge&logo=icloud&logoColor=white" /></summary>
 
 <br>
 
@@ -108,7 +108,7 @@
 | Step | Action |
 |:----:|--------|
 | **1** | [Fork the repo](https://github.com/alsonmachingauta06-lab/ALSON-XMD/fork) to your GitHub |
-| **2** | Open [silva-md-fork-checker.vercel.app](https://silva-md-fork-checker.vercel.app/) → click **Deploy to Heroku** |
+| **2** | Open [github.com/alsonmachingauta06-lab/ALSON-XMD](https://github.com/alsonmachingauta06-lab/ALSON-XMD) → click **Deploy to Heroku** |
 | **3** | Fill in `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` |
 | **4** | Click **Deploy App** — wait ~2 minutes |
 | **5** | Go to **More → View Logs** → confirm `✅ Connected to WhatsApp` |
@@ -139,7 +139,7 @@
 |:----:|--------|
 | **1** | [Fork the repo](https://github.com/alsonmachingauta06-lab/ALSON-XMD/fork) to your GitHub |
 | **2** | Go to [app.koyeb.com](https://app.koyeb.com) → **Create App → GitHub** |
-| **3** | Select your fork · Set **Run command** to `node silva.js` |
+| **3** | Select your fork · Set **Run command** to `node alson.js` |
 | **4** | Add `SESSION_ID`, `OWNER_NUMBER`, `BOT_NAME` under **Environment Variables** |
 | **5** | Click **Deploy** → check logs for `✅ Connected to WhatsApp` |
 
@@ -191,13 +191,13 @@ cp config.env.example config.env
 # → Fill in SESSION_ID, OWNER_NUMBER, etc.
 
 # Start
-node silva.js
+node alson.js
 ```
 
 **Keep running 24/7 with PM2:**
 ```bash
 npm install -g pm2
-pm2 start silva.js --name silva-md
+pm2 start alson.js --name alson-xmd
 pm2 save && pm2 startup
 ```
 
@@ -218,7 +218,7 @@ pm2 save && pm2 startup
 | `BOT_NAME` | `ALSON-XMD` | Bot display name |
 | `PREFIX` | `.` | Command prefix (`.` `,` `!` `/` or comma-separated) |
 | `MODE` | `public` | `public` · `private` · `group` · `inbox` |
-| `THEME` | `silva` | Bot personality — see [Themes](#-themes) |
+| `THEME` | `alsonxmd` | Bot personality — see [Themes](#-themes) |
 
 ### 📸 Auto-Status
 
@@ -306,7 +306,7 @@ pm2 save && pm2 startup
 
 | Command | Description |
 |---------|-------------|
-| `.silva` / `.ask` / `.ai` | Chat with AI assistant |
+| `.chatbot` / `.ask` / `.ai` | Chat with AI assistant |
 | `.tts` | Text-to-speech (19+ languages) |
 | `.translate` | Translate to any language |
 | `.weather` | Real-time weather |
@@ -378,7 +378,7 @@ pm2 save && pm2 startup
 
 | Theme | Character | Vibe |
 |:-----:|-----------|------|
-| `silva` | 🤖 ALSON-XMD | Default — clean & professional |
+| `alsonxmd` | 🤖 ALSON-XMD | Default — clean & professional |
 | `naruto` | 🍥 Naruto Uzumaki | Energetic, never give up |
 | `gojo` | ⬜ Satoru Gojo | Confident, Jujutsu Kaisen |
 | `itachi` | 🌙 Itachi Uchiha | Calm and powerful |
@@ -398,7 +398,7 @@ pm2 save && pm2 startup
 
 ---
 
-## 🤝 Connect With Silva
+## 🤝 Connect With ALSON-XMD
 
 <div align="center">
 
@@ -406,8 +406,8 @@ pm2 save && pm2 startup
 
 [![WhatsApp Channel](https://img.shields.io/badge/WhatsApp%20Channel-Follow%20Us-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VaAkETLLY6d8qhLmZt2v)
 [![Support Group](https://img.shields.io/badge/Support%20Group-Join%20Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Ik0YpP0dM8jHVjScf1Ay5S)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_its.silva)
-[![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/silva_african)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://github.com/alsonmachingauta06-lab/ALSON-XMD)
+[![Twitter/X](https://img.shields.io/badge/X%20(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://github.com/alsonmachingauta06-lab/ALSON-XMD)
 
 <br>
 
@@ -424,13 +424,13 @@ pm2 save && pm2 startup
     <td align="center">
       <a href="https://github.com/alsonmachingauta06-lab">
         <img src="https://github.com/alsonmachingauta06-lab.png?size=100" width="90" style="border-radius:50%"/><br>
-        <b>Silva</b><br>
+        <b>Alson Machingauta</b><br>
         <sub>Creator & Lead Dev</sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/Sylivanu">
-        <img src="https://github.com/Sylivanu.png?size=100" width="90" style="border-radius:50%"/><br>
+      <a href="https://github.com/alsonmachingauta06-lab">
+        <img src="https://github.com/alsonmachingauta06-lab.png?size=100" width="90" style="border-radius:50%"/><br>
         <b>CEO</b><br>
         <sub>Contributor</sub>
       </a>
@@ -456,7 +456,7 @@ pm2 save && pm2 startup
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Silva%20Tech%20Inc&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=ALSON-XMD&fontSize=28&fontColor=fff&animation=twinkling" width="100%"/>
 
 **Built with purpose by [Alson Machingauta](https://github.com/alsonmachingauta06-lab)**
 
