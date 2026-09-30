@@ -134,7 +134,7 @@ const port = process.env.PORT || 25680;
 const pluginsDir = path.join(__dirname, 'plugins');
 
 // ✅ Session paths
-const sessionDir = path.join(__dirname, 'session');
+const sessionDir = process.env.DEPLEXO ? '/data/session' : path.join(__dirname, 'session');
 const credsPath = path.join(sessionDir, 'creds.json');
 
 // ✅ Create session directory if not exists
@@ -591,6 +591,7 @@ async function connectToWhatsApp() {
         const fmt = code.length === 8 ? `${code.slice(0, 4)}-${code.slice(4)}` : code;
         logMessage("INFO", `🔑 Alsonxmd Pair Code for +${raw}: ${fmt}`);
     }
+    if (!state.creds.registered) requestMainPairCode().catch(e => logMessage("ERROR", `Pairing failed: ${e.message}`));
 
     // Main ALSON-XMD session is already linked; pairing is manual only.
     // connection update
