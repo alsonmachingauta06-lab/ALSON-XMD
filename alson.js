@@ -131,6 +131,7 @@ function _resetReconnect() {
 const prefix = config.PREFIX || '.';
 const tempDir = path.join(os.tmpdir(), 'alson-cache');
 const port = process.env.PORT || 25680;
+console.log("ABASTHAN PORT:", process.env.PORT, "USING:", port);
 const pluginsDir = path.join(__dirname, 'plugins');
 
 // ✅ Session paths
